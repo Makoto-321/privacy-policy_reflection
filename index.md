@@ -55,7 +55,7 @@ title: プライバシーポリシー
 
 - Firebase Authentication（ユーザー認証）<br>
 
-- Cloud Firestore（データベース管理）<br>
+- Cloud Firestore（AIからのネクストアクション公開管理）<br>
 
 - Google Mobile Ads（広告配信）<br>
 
